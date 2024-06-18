@@ -1,0 +1,9 @@
+- For running:
+1) Go to "shared with me" files.
+2) Right click on "final project" folder -> Organize -> Add shortcut.
+3) Choose "My Drive"
+
+- For generation:
+1) Open LSTM_Lyrics_Generator and then ->run all.
+2) Select genre - pop or rap.
+3) Input a sentence consist of 10 words
